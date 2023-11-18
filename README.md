@@ -39,4 +39,4 @@ Join this journey into extreme scalability and discover how Azure Functions is p
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | This presentation has yet to be scheduled. | | | | | |
 
-Contact [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com) to have Chad present this session at your event.+
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com) to have Chad present this session at your event.+
