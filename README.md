@@ -37,14 +37,15 @@ Join this journey into extreme scalability and discover how Azure Functions is p
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Louisville Azure User Group](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | Louisville, KY | June 13, 2024 | 6:00 PM EDT | Humana | Available Afterwards |
+| [Louisville Azure User Group](https://www.meetup.com/louisville-azure-meetup/events/300314705/) | Louisville, KY | June 13, 2024 | 6:00 PM EDT | Humana | [Slides](EventMaterials\UnleasningExtremeScalabilityWithAzureFunctions-LouisvilleAzure.pdf) |
 | [Azure Day Roma 2024](https://azureday.it/) | Rome, Italy | June 21, 2024 | 5:15 PM CEST | Room 3 | Available Afterwards |
-| Tulsa .NET User Group | Tulsa, OK | June 25, 2024 | 6:15 PM CDT | Zoom | Available Afterwards |
+| [Tulsa .NET User Group](https://www.meetup.com/dotnet-virtual-user-group/events/301528575/) | Tulsa, OK | June 25, 2024 | 6:15 PM CDT | Zoom | Available Afterwards |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Unleashing%20Extreme%20Scalability%20with%20Azure%20Functions) to have Chad present this session at your event.
 
 ## Resources
 
+- [Announcing Public Preview of Azure Functions Flex Consumption](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-public-preview-of-azure-functions-flex-consumption/ba-p/4139028)
 - [Azure Functions Flex Consumption plan hosting | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan)
 - [Create and manage function apps in a Flex Consumption plan | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-how-to?tabs=azure-cli%2Cvs-code-publish&pivots=programming-language-csharp)
 - [Flex Consumption Samples (github.com)](https://github.com/Azure-Samples/azure-functions-flex-consumption-samples?tab=readme-ov-file)
